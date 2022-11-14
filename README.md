@@ -7,7 +7,6 @@ Get Daily News Feeds
 ![App Screenshot](./src/components/utils/Screen-1.png)
 ![App Screenshot](./src/components/utils/notFound.gif)
 ![App Screenshot](./src/components/utils/1.PNG)
-![App Screenshot](./src/components/utils/4.PNG)
 
 
 ## Tech Stack
